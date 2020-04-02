@@ -1,2 +1,1 @@
-# turzo.dev-gmail.com
-SML1_Project
+# SML1_Project
